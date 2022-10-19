@@ -1,10 +1,4 @@
-// node-fetch
 //https://api.openweathermap.org/data/2.5/weather?q=zaporizhia&appid=50cb39ad20e8cdadfa2c8ce62827d3fa
-// import fetch from "node-fetch";
-// import {createWriteStream, createReadStream} from 'fs'
-//
-
-
 
 // axios
 const fs = require('fs')
